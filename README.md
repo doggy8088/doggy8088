@@ -33,132 +33,48 @@
 <h3>Languages and Tools:</h3>
 
 <p>
-    <a href="https://angular.io" target="_blank">
-        <img src="images/angular.svg" alt="angular" width="40" height="40" />
-    </a>
-    <a href="https://azure.microsoft.com/en-in/" target="_blank">
-        <img src="images/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
-    </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank">
-        <img src="images/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
-    </a>
-    <a href="https://www.chartjs.org" target="_blank">
-        <img src="images/logo-title.svg" alt="chartjs" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank">
-        <img src="images/csharp-original.svg" alt="csharp" width="40" height="40" />
-    </a>
-    <a href="https://www.cypress.io" target="_blank">
-        <img src="images/cypress.svg" alt="cypress" width="40" height="40" />
-    </a>
-    <a href="https://d3js.org/" target="_blank">
-        <img src="images/d3js-original.svg" alt="d3js" width="40" height="40" />
-    </a>
-    <a href="https://www.docker.com/" target="_blank">
-        <img src="images/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-    </a>
-    <a href="https://dotnet.microsoft.com/" target="_blank">
-        <img src="images/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
-    </a>
-    <a href="https://www.elastic.co" target="_blank">
-        <img src="images/elastic-icon.svg" alt="elasticsearch" width="40" height="40" />
-    </a>
-    <a href="https://expressjs.com" target="_blank">
-        <img src="images/express-original-wordmark.svg" alt="express" width="40" height="40" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="images/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-    <a href="https://golang.org" target="_blank">
-        <img src="images/go-original.svg" alt="go" width="40" height="40" />
-    </a>
-    <a href="https://grafana.com" target="_blank">
-        <img src="images/grafana-icon.svg" alt="grafana" width="40" height="40" />
-    </a>
-    <a href="hexo.io/" target="_blank">
-        <img src="images/hexoio-icon.svg" alt="hexo" width="40" height="40" />
-    </a>
-    <a href="https://ionicframework.com" target="_blank">
-        <img src="images/Ionic_Logo.svg" alt="ionic" width="40" height="40" />
-    </a>
-    <a href="https://jasmine.github.io/" target="_blank">
-        <img src="images/jasmine-icon.svg" alt="jasmine" width="40" height="40" />
-    </a>
-    <a href="https://www.java.com" target="_blank">
-        <img src="images/java-original.svg" alt="java" width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="images/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://www.jenkins.io" target="_blank">
-        <img src="images/jenkins-icon.svg" alt="jenkins" width="40" height="40" />
-    </a>
-    <a href="https://jestjs.io" target="_blank">
-        <img src="images/jestjsio-icon.svg" alt="jest" width="40" height="40" />
-    </a>
-    <a href="https://karma-runner.github.io/latest/index.html" target="_blank">
-        <img src="images/karma.svg" alt="karma" width="40" height="40" />
-    </a>
-    <a href="https://www.elastic.co/kibana" target="_blank">
-        <img src="images/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40" />
-    </a>
-    <a href="https://kubernetes.io" target="_blank">
-        <img src="images/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" />
-    </a>
-    <a href="https://www.linux.org/" target="_blank">
-        <img src="images/linux-original.svg" alt="linux" width="40" height="40" />
-    </a>
-    <a href="https://mariadb.org/" target="_blank">
-        <img src="images/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
-    </a>
-    <a href="https://mochajs.org" target="_blank">
-        <img src="images/mochajs-icon.svg" alt="mocha" width="40" height="40" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank">
-        <img src="images/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-    </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-        <img src="images/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="images/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-    </a>
-    <a href="https://www.nginx.com" target="_blank">
-        <img src="images/nginx-original.svg" alt="nginx" width="40" height="40" />
-    </a>
-    <a href="https://nodejs.org" target="_blank">
-        <img src="images/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-    </a>
-    <a href="https://www.postgresql.org" target="_blank">
-        <img src="images/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-    </a>
-    <a href="https://github.com/puppeteer/puppeteer" target="_blank">
-        <img src="images/pptrdev-official.svg" alt="puppeteer" width="40" height="40" />
-    </a>
-    <a href="https://www.python.org" target="_blank">
-        <img src="images/python.svg" alt="python" width="40" height="40" />
-    </a>
-    <a href="https://www.rabbitmq.com" target="_blank">
-        <img src="images/rabbitmq.svg" alt="rabbitMQ" width="40" height="40" />
-    </a>
-    <a href="https://redis.io" target="_blank">
-        <img src="images/redis.svg" alt="redis" width="40" height="40" />
-    </a>
-    <a href="https://www.selenium.dev" target="_blank">
-        <img src="images/selenium.svg" alt="selenium" width="40" height="40" />
-    </a>
-    <a href="https://spring.io/" target="_blank">
-        <img src="images/springio.svg" alt="spring" width="40" height="40" />
-    </a>
-    <a href="https://www.sqlite.org/" target="_blank">
-        <img src="images/sqlite.svg" alt="sqlite" width="40" height="40" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="images/typescript.svg" alt="typescript" width="40" height="40" />
-    </a>
-    <a href="https://code.visualstudio.com/" target="_blank">
-        <img src="images/vscode.svg" alt="typescript" width="40" height="40" />
-    </a>
+    <a href="https://angular.io" target="_blank"><img src="images/angular.svg" alt="angular" width="40" height="40" /></a>
+    <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="images/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /></a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="images/gnu_bash-icon.svg" alt="bash" width="40" height="40" /></a>
+    <a href="https://www.chartjs.org" target="_blank"><img src="images/logo-title.svg" alt="chartjs" width="40" height="40" /></a>
+    <a href="https://www.w3schools.com/cs/" target="_blank"><img src="images/csharp-original.svg" alt="csharp" width="40" height="40" /></a>
+    <a href="https://www.cypress.io" target="_blank"><img src="images/cypress.svg" alt="cypress" width="40" height="40" /></a>
+    <a href="https://d3js.org/" target="_blank"><img src="images/d3js-original.svg" alt="d3js" width="40" height="40" /></a>
+    <a href="https://www.docker.com/" target="_blank"><img src="images/docker-original-wordmark.svg" alt="docker" width="40" height="40" /></a>
+    <a href="https://dotnet.microsoft.com/" target="_blank"><img src="images/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" /></a>
+    <a href="https://www.elastic.co" target="_blank"><img src="images/elastic-icon.svg" alt="elasticsearch" width="40" height="40" /></a>
+    <a href="https://expressjs.com" target="_blank"><img src="images/express-original-wordmark.svg" alt="express" width="40" height="40" /></a>
+    <a href="https://git-scm.com/" target="_blank"><img src="images/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
+    <a href="https://golang.org" target="_blank"><img src="images/go-original.svg" alt="go" width="40" height="40" /></a>
+    <a href="https://grafana.com" target="_blank"><img src="images/grafana-icon.svg" alt="grafana" width="40" height="40" /></a>
+    <a href="hexo.io/" target="_blank"><img src="images/hexoio-icon.svg" alt="hexo" width="40" height="40" /></a>
+    <a href="https://ionicframework.com" target="_blank"><img src="images/Ionic_Logo.svg" alt="ionic" width="40" height="40" /></a>
+    <a href="https://jasmine.github.io/" target="_blank"><img src="images/jasmine-icon.svg" alt="jasmine" width="40" height="40" /></a>
+    <a href="https://www.java.com" target="_blank"><img src="images/java-original.svg" alt="java" width="40" height="40" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="images/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
+    <a href="https://www.jenkins.io" target="_blank"><img src="images/jenkins-icon.svg" alt="jenkins" width="40" height="40" /></a>
+    <a href="https://jestjs.io" target="_blank"><img src="images/jestjsio-icon.svg" alt="jest" width="40" height="40" /></a>
+    <a href="https://karma-runner.github.io/latest/index.html" target="_blank"><img src="images/karma.svg" alt="karma" width="40" height="40" /></a>
+    <a href="https://www.elastic.co/kibana" target="_blank"><img src="images/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40" /></a>
+    <a href="https://kubernetes.io" target="_blank"><img src="images/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" /></a>
+    <a href="https://www.linux.org/" target="_blank"><img src="images/linux-original.svg" alt="linux" width="40" height="40" /></a>
+    <a href="https://mariadb.org/" target="_blank"><img src="images/mariadb-icon.svg" alt="mariadb" width="40" height="40" /></a>
+    <a href="https://mochajs.org" target="_blank"><img src="images/mochajs-icon.svg" alt="mocha" width="40" height="40" /></a>
+    <a href="https://www.mongodb.com/" target="_blank"><img src="images/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a>
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="images/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" /></a>
+    <a href="https://www.mysql.com/" target="_blank"><img src="images/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
+    <a href="https://www.nginx.com" target="_blank"><img src="images/nginx-original.svg" alt="nginx" width="40" height="40" /></a>
+    <a href="https://nodejs.org" target="_blank"><img src="images/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /></a>
+    <a href="https://www.postgresql.org" target="_blank"><img src="images/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /></a>
+    <a href="https://github.com/puppeteer/puppeteer" target="_blank"><img src="images/pptrdev-official.svg" alt="puppeteer" width="40" height="40" /></a>
+    <a href="https://www.python.org" target="_blank"><img src="images/python.svg" alt="python" width="40" height="40" /></a>
+    <a href="https://www.rabbitmq.com" target="_blank"><img src="images/rabbitmq.svg" alt="rabbitMQ" width="40" height="40" /></a>
+    <a href="https://redis.io" target="_blank"><img src="images/redis.svg" alt="redis" width="40" height="40" /></a>
+    <a href="https://www.selenium.dev" target="_blank"><img src="images/selenium.svg" alt="selenium" width="40" height="40" /></a>
+    <a href="https://spring.io/" target="_blank"><img src="images/springio.svg" alt="spring" width="40" height="40" /></a>
+    <a href="https://www.sqlite.org/" target="_blank"><img src="images/sqlite.svg" alt="sqlite" width="40" height="40" /></a>
+    <a href="https://www.typescriptlang.org/" target="_blank"><img src="images/typescript.svg" alt="typescript" width="40" height="40" /></a>
+    <a href="https://code.visualstudio.com/" target="_blank"><img src="images/vscode.svg" alt="typescript" width="40" height="40" /></a>
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=doggy8088&show_icons=true&locale=en&layout=compact" alt="doggy8088" /></p>
