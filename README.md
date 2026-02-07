@@ -77,8 +77,8 @@
     <a href="https://code.visualstudio.com/" target="_blank"><img src="images/vscode.svg" alt="typescript" width="40" height="40" /></a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=doggy8088&show_icons=true&locale=en&layout=compact" alt="doggy8088" /></p>
+<p align="center"><img src="https://github-readme-stats-fast.vercel.app/api?username=doggy8088&amp;show_icons=true&amp;theme=radical" alt="doggy8088" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=doggy8088&show_icons=true&locale=en" alt="doggy8088" /></p>
+<p align="center"><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=doggy8088&amp;theme=radical" alt="doggy8088" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=doggy8088&" alt="doggy8088" /></p>
+<p align="center"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=doggy8088&amp;layout=compact&amp;theme=radical" alt="doggy8088" /></p>
