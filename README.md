@@ -18,9 +18,6 @@
     <a href="https://www.youtube.com/channel/UC_R2RVC5RnkivQwDFGZ6ohg" target="blank"><img align="center" src="https://img.shields.io/youtube/channel/subscribers/UC_R2RVC5RnkivQwDFGZ6ohg?label=YouTube%20Subscribers&style=plastic" alt="YouTube Channel Subscribers" /></a>
     <a href="https://www.youtube.com/channel/UC_R2RVC5RnkivQwDFGZ6ohg" target="blank"><img align="center" src="https://img.shields.io/youtube/channel/views/UC_R2RVC5RnkivQwDFGZ6ohg?label=YouTube%20Views&style=plastic" alt="YouTube Channel Views" /></a>
 </p>
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doggy8088&&row=2&column=4&margin-w=5&margin-h=5&no-bg=false&no-frame=true&title=MultiLanguage,LongTimeUser,AncientUser,Stars,Followers,Repositories,Issue,PullRequest" alt="doggy8088" /></a>
-</p>
 
 - 💬 Ask me about **Angular, C#, .NET, Azure, DevOps, Docker, Kubernetes, Generative AI**.
 
