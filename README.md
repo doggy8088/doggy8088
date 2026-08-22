@@ -328,8 +328,16 @@ I am a passionate full-stack developer with deep expertise in enterprise applica
 <div align="center">
 
 <a href="https://www.youtube.com/c/willhuang" target="_blank">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UC_R2RVC5RnkivQwDFGZ6ohg?label=YouTube%20Subscribers&style=for-the-badge&logo=youtube&color=FF0000" alt="YouTube Subscribers" />
-  <img src="https://img.shields.io/youtube/channel/views/UC_R2RVC5RnkivQwDFGZ6ohg?label=Total%20Views&style=for-the-badge&logo=youtube&color=FF0000" alt="YouTube Views" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://youtube-stats-card.vercel.app/api?channelid=UC_R2RVC5RnkivQwDFGZ6ohg&theme=dark_pink&layout=default">
+    <img src="https://youtube-stats-card.vercel.app/api?channelid=UC_R2RVC5RnkivQwDFGZ6ohg&theme=vue&layout=default" alt="YouTube Channel Stats" width="400" />
+  </picture>
+</a>
+
+<br/>
+
+<a href="https://www.youtube.com/c/willhuang" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-@willhuang-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
 </a>
 
 > 🎥 I publish tutorials and deep-dives on .NET, Angular, Azure, and developer tools.  
