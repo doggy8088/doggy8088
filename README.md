@@ -1,81 +1,391 @@
-<h1 align="center">Hi 👋, I'm Will 保哥</h1>
-<h3 align="center">A passionate fullstack developer from Taiwan</h3>
-<p align="center">
-    <a href="https://twitter.com/will_huang" target="blank"><img src="https://img.shields.io/twitter/follow/will_huang?logo=twitter&style=for-the-badge" alt="will_huang" /></a>
-</p>
-<p align="center">
-    <a href="https://codepen.io/willh" target="blank"><img align="center" src="images/codepen.svg" alt="willh" height="30" width="40" /></a>
-    <a href="https://dev.to/will_huang" target="blank"><img align="center" src="images/dev-dot-to.svg" alt="will_huang" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/will-huang-tw" target="blank"><img align="center" src="images/linked-in-alt.svg" alt="will-huang-tw" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/910074" target="blank"><img align="center" src="images/stack-overflow.svg" alt="910074" height="30" width="40" /></a>
-    <a href="https://fb.com/will.fans" target="blank"><img align="center" src="images/facebook.svg" alt="will.fans" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/willhuang" target="blank"><img align="center" src="images/youtube.svg" alt="willhuang" height="30" width="40" /></a>
-    <a href="https://feeds.feedburner.com/thewillwillweb" target="blank"><img align="center" src="images/rss.svg" alt="feeds.feedburner.com/thewillwillweb" height="30" width="40" /></a>
-</p>
-<p align="center">
-    <a href="https://github.com/doggy8088" target="blank"><img align="center" src="https://komarev.com/ghpvc/?username=doggy8088&label=Profile%20Views&color=0e75b6&style=plastic" alt="Profile Views" /></a>
-    <a href="https://github.com/doggy8088" target="blank"><img align="center" src="https://img.shields.io/github/followers/doggy8088?label=GitHub%20Followers&&style=plastic" alt="GitHub Followers" /></a>
-    <a href="https://www.youtube.com/channel/UC_R2RVC5RnkivQwDFGZ6ohg" target="blank"><img align="center" src="https://img.shields.io/youtube/channel/subscribers/UC_R2RVC5RnkivQwDFGZ6ohg?label=YouTube%20Subscribers&style=plastic" alt="YouTube Channel Subscribers" /></a>
-    <a href="https://www.youtube.com/channel/UC_R2RVC5RnkivQwDFGZ6ohg" target="blank"><img align="center" src="https://img.shields.io/youtube/channel/views/UC_R2RVC5RnkivQwDFGZ6ohg?label=YouTube%20Views&style=plastic" alt="YouTube Channel Views" /></a>
-</p>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                   ANIMATED HEADER                      -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<div align="center">
 
-- 💬 Ask me about **Angular, C#, .NET, Azure, DevOps, Docker, Kubernetes, Generative AI**.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Will%20%E4%BF%9D%E5%93%A5&fontSize=60&fontAlignY=38&desc=Technical%20Director%20%7C%20Angular%20GDE%20%7C%20Microsoft%20MVP%20%7C%20Microsoft%20RD&descSize=16&descAlignY=60&animation=fadeIn&fontColor=ffffff">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,6,8,10&height=200&section=header&text=Will%20%E4%BF%9D%E5%93%A5&fontSize=60&fontAlignY=38&desc=Technical%20Director%20%7C%20Angular%20GDE%20%7C%20Microsoft%20MVP%20%7C%20Microsoft%20RD&descSize=16&descAlignY=60&animation=fadeIn&fontColor=000000" alt="Will 保哥" />
+</picture>
 
-- 📝 I regularly write articles on [https://blog.miniasp.com/](https://blog.miniasp.com/)
+<!-- Animated Typing Effect -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0969DA&center=true&vCenter=true&multiline=true&width=750&height=80&lines=%F0%9F%9A%80+Full-Stack+Developer+%7C+19x+Microsoft+MVP;%F0%9F%8C%9F+Angular+GDE+%7C+Microsoft+Regional+Director;%F0%9F%92%A1+AI+%7C+.NET+%7C+Azure+%7C+DevOps+Expert)](https://git.io/typing-svg)
 
-- 📫 How to reach me **https://www.facebook.com/will.fans**
-
-- 📄 Know about my experiences **https://www.linkedin.com/in/will-huang-tw/**
-
-<h3>Languages and Tools:</h3>
-
+<!-- Profile View Counter & Followers -->
 <p>
-    <a href="https://angular.io" target="_blank"><img src="images/angular.svg" alt="angular" width="40" height="40" /></a>
-    <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="images/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /></a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="images/gnu_bash-icon.svg" alt="bash" width="40" height="40" /></a>
-    <a href="https://www.chartjs.org" target="_blank"><img src="images/logo-title.svg" alt="chartjs" width="40" height="40" /></a>
-    <a href="https://www.w3schools.com/cs/" target="_blank"><img src="images/csharp-original.svg" alt="csharp" width="40" height="40" /></a>
-    <a href="https://www.cypress.io" target="_blank"><img src="images/cypress.svg" alt="cypress" width="40" height="40" /></a>
-    <a href="https://d3js.org/" target="_blank"><img src="images/d3js-original.svg" alt="d3js" width="40" height="40" /></a>
-    <a href="https://www.docker.com/" target="_blank"><img src="images/docker-original-wordmark.svg" alt="docker" width="40" height="40" /></a>
-    <a href="https://dotnet.microsoft.com/" target="_blank"><img src="images/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" /></a>
-    <a href="https://www.elastic.co" target="_blank"><img src="images/elastic-icon.svg" alt="elasticsearch" width="40" height="40" /></a>
-    <a href="https://expressjs.com" target="_blank"><img src="images/express-original-wordmark.svg" alt="express" width="40" height="40" /></a>
-    <a href="https://git-scm.com/" target="_blank"><img src="images/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
-    <a href="https://golang.org" target="_blank"><img src="images/go-original.svg" alt="go" width="40" height="40" /></a>
-    <a href="https://grafana.com" target="_blank"><img src="images/grafana-icon.svg" alt="grafana" width="40" height="40" /></a>
-    <a href="hexo.io/" target="_blank"><img src="images/hexoio-icon.svg" alt="hexo" width="40" height="40" /></a>
-    <a href="https://ionicframework.com" target="_blank"><img src="images/Ionic_Logo.svg" alt="ionic" width="40" height="40" /></a>
-    <a href="https://jasmine.github.io/" target="_blank"><img src="images/jasmine-icon.svg" alt="jasmine" width="40" height="40" /></a>
-    <a href="https://www.java.com" target="_blank"><img src="images/java-original.svg" alt="java" width="40" height="40" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="images/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
-    <a href="https://www.jenkins.io" target="_blank"><img src="images/jenkins-icon.svg" alt="jenkins" width="40" height="40" /></a>
-    <a href="https://jestjs.io" target="_blank"><img src="images/jestjsio-icon.svg" alt="jest" width="40" height="40" /></a>
-    <a href="https://karma-runner.github.io/latest/index.html" target="_blank"><img src="images/karma.svg" alt="karma" width="40" height="40" /></a>
-    <a href="https://www.elastic.co/kibana" target="_blank"><img src="images/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40" /></a>
-    <a href="https://kubernetes.io" target="_blank"><img src="images/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" /></a>
-    <a href="https://www.linux.org/" target="_blank"><img src="images/linux-original.svg" alt="linux" width="40" height="40" /></a>
-    <a href="https://mariadb.org/" target="_blank"><img src="images/mariadb-icon.svg" alt="mariadb" width="40" height="40" /></a>
-    <a href="https://mochajs.org" target="_blank"><img src="images/mochajs-icon.svg" alt="mocha" width="40" height="40" /></a>
-    <a href="https://www.mongodb.com/" target="_blank"><img src="images/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="images/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" /></a>
-    <a href="https://www.mysql.com/" target="_blank"><img src="images/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
-    <a href="https://www.nginx.com" target="_blank"><img src="images/nginx-original.svg" alt="nginx" width="40" height="40" /></a>
-    <a href="https://nodejs.org" target="_blank"><img src="images/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /></a>
-    <a href="https://www.postgresql.org" target="_blank"><img src="images/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /></a>
-    <a href="https://github.com/puppeteer/puppeteer" target="_blank"><img src="images/pptrdev-official.svg" alt="puppeteer" width="40" height="40" /></a>
-    <a href="https://www.python.org" target="_blank"><img src="images/python.svg" alt="python" width="40" height="40" /></a>
-    <a href="https://www.rabbitmq.com" target="_blank"><img src="images/rabbitmq.svg" alt="rabbitMQ" width="40" height="40" /></a>
-    <a href="https://redis.io" target="_blank"><img src="images/redis.svg" alt="redis" width="40" height="40" /></a>
-    <a href="https://www.selenium.dev" target="_blank"><img src="images/selenium.svg" alt="selenium" width="40" height="40" /></a>
-    <a href="https://spring.io/" target="_blank"><img src="images/springio.svg" alt="spring" width="40" height="40" /></a>
-    <a href="https://www.sqlite.org/" target="_blank"><img src="images/sqlite.svg" alt="sqlite" width="40" height="40" /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank"><img src="images/typescript.svg" alt="typescript" width="40" height="40" /></a>
-    <a href="https://code.visualstudio.com/" target="_blank"><img src="images/vscode.svg" alt="typescript" width="40" height="40" /></a>
+  <a href="https://github.com/doggy8088">
+    <img src="https://komarev.com/ghpvc/?username=doggy8088&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/doggy8088?tab=followers">
+    <img src="https://img.shields.io/github/followers/doggy8088?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub Followers" />
+  </a>
+  <a href="https://twitter.com/will_huang">
+    <img src="https://img.shields.io/twitter/follow/will_huang?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter Follow" />
+  </a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats-fast.vercel.app/api?username=doggy8088&amp;show_icons=true&amp;theme=radical" alt="doggy8088" /></p>
+</div>
 
-<p align="center"><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=doggy8088&amp;theme=radical" alt="doggy8088" /></p>
+---
 
-<p align="center"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=doggy8088&amp;layout=compact&amp;theme=radical" alt="doggy8088" /></p>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                   ABOUT ME SECTION                     -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+**Will Huang (保哥)** — Technical Director at [多奇數位創意有限公司](https://miniasp.com), based in Taipei, Taiwan 🇹🇼
+
+I am a passionate full-stack developer with deep expertise in enterprise application architecture, cloud-native development, and developer tooling. I thrive at the intersection of technology education and hands-on engineering.
+
+- 🏆 **18x Microsoft Most Valuable Professional (MVP)**
+- 🌟 **Angular Google Developer Expert (GDE)** since 2018
+- 📡 **Microsoft Regional Director (RD)** since 2019
+- 🏢 **Technical Director** @ 多奇數位創意有限公司
+- 📝 **Blogger** at [The Will Will Web](https://blog.miniasp.com/) — sharing knowledge daily
+- 🎓 **Author** of *Learn Git in 30 Days* — award-winning iT邦幫忙鐵人賽 work
+- 🤝 **GitHub Achievements:** Pair Extraordinaire ×3 · Starstruck ×4 · Pull Shark ×3
+
+<br clear="right"/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                   EXPERTISE SECTION                    -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 🎯 Areas of Expertise
+
+<div align="center">
+
+| 🧠 Domain | 🔧 Technologies |
+|---|---|
+| **Frontend** | Angular, TypeScript, JavaScript, Ionic, D3.js, Chart.js |
+| **Backend** | .NET / C#, Node.js, Express, Python, Java, Go, Spring |
+| **Cloud & DevOps** | Azure, Docker, Kubernetes, Jenkins, GitHub Actions |
+| **Databases** | SQL Server, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch |
+| **AI & Generative** | Generative AI, GitHub Copilot, LLM Integrations |
+| **Testing** | Cypress, Jest, Jasmine, Mocha, Karma, Selenium, Puppeteer |
+| **Infrastructure** | Linux, Nginx, RabbitMQ, Grafana, Kibana, Bash |
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                   TECH STACK                           -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Core Languages
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![C#](https://skillicons.dev/icons?i=cs)](https://www.w3schools.com/cs/)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
+[![Go](https://skillicons.dev/icons?i=go)](https://golang.org)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
+[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
+
+### Frameworks & Libraries
+[![Angular](https://skillicons.dev/icons?i=angular)](https://angular.io)
+[![.NET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/)
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com)
+[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io/)
+
+### Cloud & DevOps
+[![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
+[![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://www.jenkins.io)
+[![Nginx](https://skillicons.dev/icons?i=nginx)](https://www.nginx.com)
+
+### Databases & Storage
+[![MSSQL](https://skillicons.dev/icons?i=mssql)](https://www.microsoft.com/en-us/sql-server)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io)
+[![Elasticsearch](https://skillicons.dev/icons?i=elasticsearch)](https://www.elastic.co)
+[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
+
+### Testing
+[![Cypress](https://skillicons.dev/icons?i=cypress)](https://www.cypress.io)
+[![Jest](https://skillicons.dev/icons?i=jest)](https://jestjs.io)
+[![Selenium](https://skillicons.dev/icons?i=selenium)](https://www.selenium.dev)
+
+### Tools & Editors
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![Grafana](https://skillicons.dev/icons?i=grafana)](https://grafana.com)
+[![Markdown](https://skillicons.dev/icons?i=markdown)](https://daringfireball.net/projects/markdown/)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                  GITHUB STATS                          -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=doggy8088&show_icons=true&count_private=true&theme=tokyonight&border_radius=10&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=doggy8088&show_icons=true&count_private=true&theme=default&border_radius=10&include_all_commits=true&hide_border=false"
+    alt="Will's GitHub Stats"
+  />
+</picture>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=doggy8088&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8"
+  />
+  <img
+    width="40%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=doggy8088&layout=compact&theme=default&border_radius=10&hide_border=false&langs_count=8"
+    alt="Top Languages"
+  />
+</picture>
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=doggy8088&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=10"
+  />
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com?user=doggy8088&theme=default&hide_border=false&border_radius=10"
+    alt="GitHub Streak"
+  />
+</picture>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--               CONTRIBUTION GRAPH                       -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=doggy8088&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f8f8f8&area=true&hide_border=true&area_color=1c3f6e"
+  />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=doggy8088&bg_color=ffffff&color=0969DA&line=0969DA&point=0969DA&area=true&hide_border=false&area_color=dbeafe"
+    alt="Contribution Activity Graph"
+    width="95%"
+  />
+</picture>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--               FEATURED PROJECTS                        -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/doggy8088/Learn-Git-in-30-days">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=Learn-Git-in-30-days&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=Learn-Git-in-30-days&theme=default&hide_border=false" alt="Learn-Git-in-30-days" />
+  </picture>
+</a>
+<a href="https://github.com/doggy8088/ask-bridge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=ask-bridge&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=ask-bridge&theme=default&hide_border=false" alt="ask-bridge" />
+  </picture>
+</a>
+
+<a href="https://github.com/doggy8088/github-copilot-configs">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=github-copilot-configs&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=github-copilot-configs&theme=default&hide_border=false" alt="github-copilot-configs" />
+  </picture>
+</a>
+<a href="https://github.com/doggy8088/TampermonkeyUserscripts">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=TampermonkeyUserscripts&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=TampermonkeyUserscripts&theme=default&hide_border=false" alt="TampermonkeyUserscripts" />
+  </picture>
+</a>
+
+<a href="https://github.com/doggy8088/subtitle-master">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=subtitle-master&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=subtitle-master&theme=default&hide_border=false" alt="subtitle-master" />
+  </picture>
+</a>
+<a href="https://github.com/doggy8088/ask-page-extension">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=ask-page-extension&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=ask-page-extension&theme=default&hide_border=false" alt="ask-page-extension" />
+  </picture>
+</a>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--               ACHIEVEMENTS & AWARDS                    -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 🏅 Achievements & Recognition
+
+<div align="center">
+
+| 🏆 Award | 📅 Period | 🔗 Details |
+|---|---|---|
+| 🌟 **Microsoft MVP** | 2008 – Present (19×) | Visual Studio & Development Tools, Azure, Developer Technologies |
+| 📖 **iT邦幫忙 鐵人賽 Champion** | 2013 | *Learn Git in 30 Days* — Best Book Award |
+| 🅰️ **Angular GDE** | 2018 – Present | Google Developer Expert for Angular Framework |
+| 📡 **Microsoft RD** | 2019 – Present | Regional Director — Technical Community Leader |
+| ☁️ **Cloud AI GDE** | 2024 – Present | Google Developer Expert for Cloud AI |
+| 🏗️ **GitHub Achievements** | Active | Pair Extraordinaire ×3 · Starstruck ×4 · Pull Shark ×3 |
+| 🎓 **Developer Program Member** | Active | GitHub Developer Program |
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--               WRITING & CONTENT                        -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## ✍️ Latest Blog Posts
+
+> 📰 I write regularly at **[The Will Will Web](https://blog.miniasp.com/)** — covering .NET, Angular, Azure, DevOps, AI, and practical developer tips in Traditional Chinese.
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+💡 *[→ Visit my blog for all articles](https://blog.miniasp.com/)*
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--               YOUTUBE CHANNEL                          -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 🎬 YouTube Channel
+
+<div align="center">
+
+<a href="https://www.youtube.com/c/willhuang" target="_blank">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UC_R2RVC5RnkivQwDFGZ6ohg?label=YouTube%20Subscribers&style=for-the-badge&logo=youtube&color=FF0000" alt="YouTube Subscribers" />
+  <img src="https://img.shields.io/youtube/channel/views/UC_R2RVC5RnkivQwDFGZ6ohg?label=Total%20Views&style=for-the-badge&logo=youtube&color=FF0000" alt="YouTube Views" />
+</a>
+
+> 🎥 I publish tutorials and deep-dives on .NET, Angular, Azure, and developer tools.  
+> *[→ Subscribe to my YouTube Channel](https://www.youtube.com/c/willhuang)*
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--               COMMUNITY & SPEAKING                     -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 🌏 Community & Speaking
+
+I am deeply involved in the developer community in Taiwan and internationally:
+
+- 🎤 **Speaker** at international and local tech conferences
+- 🤝 **Mentor** for developers learning Angular, .NET, and Azure
+- 📚 **Knowledge sharer** — 800+ GitHub repositories, daily blog posts
+- 🌐 **Community Leader** for the Taiwan .NET and Angular developer ecosystems
+- 💬 Ask me anything about: **Angular · C# · .NET · Azure · DevOps · Docker · Kubernetes · Generative AI**
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                   CONNECT WITH ME                      -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+<a href="https://blog.miniasp.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Blog-The%20Will%20Will%20Web-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
+</a>
+<a href="https://linkedin.com/in/will-huang-tw" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-will--huang--tw-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://twitter.com/will_huang" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-%40will__huang-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+<a href="https://fb.com/will.fans" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-will.fans-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://www.youtube.com/c/willhuang" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Will%20Huang-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+<a href="https://stackoverflow.com/users/910074" target="_blank">
+  <img src="https://img.shields.io/badge/Stack%20Overflow-910074-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+</a>
+<a href="https://dev.to/will_huang" target="_blank">
+  <img src="https://img.shields.io/badge/DEV.to-will__huang-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to" />
+</a>
+<a href="https://codepen.io/willh" target="_blank">
+  <img src="https://img.shields.io/badge/CodePen-willh-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+</a>
+<a href="https://www.credly.com/users/will-huang-tw/badges" target="_blank">
+  <img src="https://img.shields.io/badge/Credly-Badges%20%26%20Certs-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
+</a>
+<a href="https://feeds.feedburner.com/thewillwillweb" target="_blank">
+  <img src="https://img.shields.io/badge/RSS-Feed-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="RSS Feed" />
+</a>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                   FOOTER                               -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,6,8,10&height=100&section=footer&animation=fadeIn" alt="footer" />
+</picture>
+
+*💬 "The best way to learn is to build, share, and teach."*
+
+**⭐ If any of my projects helped you, please consider giving them a star!**
+
+</div>
