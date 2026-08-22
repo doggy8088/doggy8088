@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+    <linearGradient id="agcli-grad" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%"   stop-color="#EA4335"/>
+      <stop offset="33%"  stop-color="#FBBC05"/>
+      <stop offset="66%"  stop-color="#34A853"/>
+      <stop offset="100%" stop-color="#4285F4"/>
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="10" fill="#0F172A"/>
+  <!-- Arrow upward symbol -->
+  <polygon points="24,6 35,20 29,20 29,34 19,34 19,20 13,20" fill="url(#agcli-grad)"/>
+  <!-- CLI badge -->
+  <rect x="14" y="36" width="20" height="8" rx="3" fill="#34A853"/>
+  <text x="24" y="42.5" font-family="'Segoe UI',-apple-system,sans-serif" font-size="6" font-weight="bold" fill="white" text-anchor="middle">CLI</text>
+</svg>

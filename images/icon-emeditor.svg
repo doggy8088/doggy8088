@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <rect width="48" height="48" rx="10" fill="#0078A0"/>
+  <!-- Document backdrop -->
+  <rect x="10" y="8" width="28" height="32" rx="3" fill="#FFFFFF" fill-opacity="0.15"/>
+  <!-- Bold Stylized E -->
+  <path fill="white" d="M16 14h16c1.1 0 2 .9 2 2s-.9 2-2 2H20v4h10c1.1 0 2 .9 2 2s-.9 2-2 2H20v4h12c1.1 0 2 .9 2 2s-.9 2-2 2H16c-1.1 0-2-.9-2-2V16c0-1.1.9-2 2-2z"/>
+</svg>
