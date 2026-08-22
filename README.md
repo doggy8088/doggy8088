@@ -4,8 +4,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=160&section=header&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,6,8,10&height=160&section=header&animation=fadeIn" alt="Will 保哥" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=160&section=header&animation=fadeIn&text=Will%20%E4%BF%9D%E5%93%A5">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,6,8,10&height=160&section=header&animation=fadeIn&text=Will%20%E4%BF%9D%E5%93%A5" alt="Will 保哥" />
 </picture>
 
 <!-- Animated Typing Effect -->
