@@ -9,7 +9,7 @@
 </picture>
 
 <!-- Animated Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0969DA&center=true&vCenter=true&multiline=true&width=750&height=80&lines=%F0%9F%9A%80+Full-Stack+Developer+%7C+19x+Microsoft+MVP;%F0%9F%8C%9F+Angular+GDE+%7C+Microsoft+Regional+Director;%F0%9F%92%A1+AI+%7C+.NET+%7C+Azure+%7C+DevOps+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=0969DA&center=true&vCenter=true&width=750&height=50&lines=%F0%9F%9A%80+Full-Stack+Developer+%7C+19x+Microsoft+MVP;%F0%9F%8C%9F+Angular+%2F+Cloud+AI+GDE+%7C+Microsoft+Regional+Director;%F0%9F%92%A1+AI+%7C+.NET+%7C+Azure+%7C+DevOps+Expert)](https://git.io/typing-svg)
 
 <!-- Profile View Counter & Followers -->
 <p>
@@ -40,8 +40,8 @@
 
 I am a passionate full-stack developer with deep expertise in enterprise application architecture, cloud-native development, and developer tooling. I thrive at the intersection of technology education and hands-on engineering.
 
-- 🏆 **18x Microsoft Most Valuable Professional (MVP)**
-- 🌟 **Angular Google Developer Expert (GDE)** since 2018
+- 🏆 **19x Microsoft Most Valuable Professional (MVP)**
+- 🌟 **Angular / Cloud AI Google Developer Expert (GDE)** since 2018
 - 📡 **Microsoft Regional Director (RD)** since 2019
 - 🏢 **Technical Director** @ 多奇數位創意有限公司
 - 📝 **Blogger** at [The Will Will Web](https://blog.miniasp.com/) — sharing knowledge daily
@@ -220,36 +220,62 @@ I am a passionate full-stack developer with deep expertise in enterprise applica
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=Learn-Git-in-30-days&theme=default&hide_border=false" alt="Learn-Git-in-30-days" />
   </picture>
 </a>
-<a href="https://github.com/doggy8088/ask-bridge">
+<a href="https://github.com/doggy8088/better-rm">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=ask-bridge&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=ask-bridge&theme=default&hide_border=false" alt="ask-bridge" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=better-rm&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=better-rm&theme=default&hide_border=false" alt="better-rm" />
   </picture>
 </a>
 
-<a href="https://github.com/doggy8088/github-copilot-configs">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=github-copilot-configs&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=github-copilot-configs&theme=default&hide_border=false" alt="github-copilot-configs" />
-  </picture>
-</a>
 <a href="https://github.com/doggy8088/TampermonkeyUserscripts">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=TampermonkeyUserscripts&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=TampermonkeyUserscripts&theme=default&hide_border=false" alt="TampermonkeyUserscripts" />
   </picture>
 </a>
-
-<a href="https://github.com/doggy8088/subtitle-master">
+<a href="https://github.com/doggy8088/ChatGPTToolkitExtension">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=subtitle-master&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=subtitle-master&theme=default&hide_border=false" alt="subtitle-master" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=ChatGPTToolkitExtension&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=ChatGPTToolkitExtension&theme=default&hide_border=false" alt="ChatGPTToolkitExtension" />
   </picture>
 </a>
-<a href="https://github.com/doggy8088/ask-page-extension">
+
+<a href="https://github.com/doggy8088/mcp-cli">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=ask-page-extension&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=ask-page-extension&theme=default&hide_border=false" alt="ask-page-extension" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=mcp-cli&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=mcp-cli&theme=default&hide_border=false" alt="mcp-cli" />
+  </picture>
+</a>
+<a href="https://github.com/doggy8088/best-wsl-ubuntu-setup">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=best-wsl-ubuntu-setup&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=best-wsl-ubuntu-setup&theme=default&hide_border=false" alt="best-wsl-ubuntu-setup" />
+  </picture>
+</a>
+
+<a href="https://github.com/doggy8088/git-setup">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=git-setup&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=git-setup&theme=default&hide_border=false" alt="git-setup" />
+  </picture>
+</a>
+<a href="https://github.com/doggy8088/OpenCC">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=OpenCC&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=OpenCC&theme=default&hide_border=false" alt="OpenCC" />
+  </picture>
+</a>
+
+<a href="https://github.com/doggy8088/codex-reset-checker">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=codex-reset-checker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=codex-reset-checker&theme=default&hide_border=false" alt="codex-reset-checker" />
+  </picture>
+</a>
+<a href="https://github.com/doggy8088/Paste-to-Markdown">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=Paste-to-Markdown&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=doggy8088&repo=Paste-to-Markdown&theme=default&hide_border=false" alt="Paste-to-Markdown" />
   </picture>
 </a>
 
@@ -267,11 +293,10 @@ I am a passionate full-stack developer with deep expertise in enterprise applica
 
 | 🏆 Award | 📅 Period | 🔗 Details |
 |---|---|---|
-| 🌟 **Microsoft MVP** | 2008 – Present (19×) | Visual Studio & Development Tools, Azure, Developer Technologies |
+| 🌟 **Microsoft MVP** | 2006 – Present (19×) | Visual Studio & Development Tools, Azure, Developer Technologies |
+| 🅰️ **Angular / Cloud AI GDE** | 2018 – Present | Google Developer Expert for Angular & Cloud AI |
 | 📖 **iT邦幫忙 鐵人賽 Champion** | 2013 | *Learn Git in 30 Days* — Best Book Award |
-| 🅰️ **Angular GDE** | 2018 – Present | Google Developer Expert for Angular Framework |
 | 📡 **Microsoft RD** | 2019 – Present | Regional Director — Technical Community Leader |
-| ☁️ **Cloud AI GDE** | 2024 – Present | Google Developer Expert for Cloud AI |
 | 🏗️ **GitHub Achievements** | Active | Pair Extraordinaire ×3 · Starstruck ×4 · Pull Shark ×3 |
 | 🎓 **Developer Program Member** | Active | GitHub Developer Program |
 
