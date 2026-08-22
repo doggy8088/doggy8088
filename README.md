@@ -121,8 +121,13 @@ I am a passionate full-stack developer with deep expertise in enterprise applica
 
 ### Tools & Editors
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/)
+[![Vim](https://skillicons.dev/icons?i=vim)](https://www.vim.org/)
 [![Grafana](https://skillicons.dev/icons?i=grafana)](https://grafana.com)
 [![Markdown](https://skillicons.dev/icons?i=markdown)](https://daringfireball.net/projects/markdown/)
+[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black)](https://notepad-plus-plus.org/)
+[![EmEditor](https://img.shields.io/badge/EmEditor-0078A0?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0zIDNoMTh2MThIM3oiLz48L3N2Zz4=&logoColor=white)](https://www.emeditor.com/)
+[![Notepad4](https://img.shields.io/badge/Notepad4-555555?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/zufuliu/notepad4)
 
 ### 🤖 AI Coding Agents (Harness)
 [![GitHub Copilot CLI](https://img.shields.io/badge/GitHub%20Copilot%20CLI-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/github/copilot-cli)
@@ -225,53 +230,45 @@ I am a passionate full-stack developer with deep expertise in enterprise applica
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=Learn-Git-in-30-days&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=Learn-Git-in-30-days&theme=default&hide_border=false" alt="Learn-Git-in-30-days" />
-  </picture>
-</a>
+  </picture></a>
 <a href="https://github.com/doggy8088/better-rm">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=better-rm&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=better-rm&theme=default&hide_border=false" alt="better-rm" />
-  </picture>
-</a>
+  </picture></a>
 
 <a href="https://github.com/doggy8088/TampermonkeyUserscripts">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=TampermonkeyUserscripts&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=TampermonkeyUserscripts&theme=default&hide_border=false" alt="TampermonkeyUserscripts" />
-  </picture>
-</a>
+  </picture></a>
 <a href="https://github.com/doggy8088/ChatGPTToolkitExtension">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=ChatGPTToolkitExtension&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=ChatGPTToolkitExtension&theme=default&hide_border=false" alt="ChatGPTToolkitExtension" />
-  </picture>
-</a>
+  </picture></a>
 
 <a href="https://github.com/doggy8088/mcp-cli">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=mcp-cli&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=mcp-cli&theme=default&hide_border=false" alt="mcp-cli" />
-  </picture>
-</a>
+  </picture></a>
 <a href="https://github.com/doggy8088/best-wsl-ubuntu-setup">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=best-wsl-ubuntu-setup&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=best-wsl-ubuntu-setup&theme=default&hide_border=false" alt="best-wsl-ubuntu-setup" />
-  </picture>
-</a>
+  </picture></a>
 
 <a href="https://github.com/doggy8088/git-setup">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=git-setup&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=git-setup&theme=default&hide_border=false" alt="git-setup" />
-  </picture>
-</a>
+  </picture></a>
 <a href="https://github.com/doggy8088/OpenCC">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=OpenCC&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=OpenCC&theme=default&hide_border=false" alt="OpenCC" />
-  </picture>
-</a>
+  </picture></a>
 
 <a href="https://github.com/doggy8088/codex-reset-checker">
   <picture>
