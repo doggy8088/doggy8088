@@ -124,6 +124,16 @@ I am a passionate full-stack developer with deep expertise in enterprise applica
 [![Grafana](https://skillicons.dev/icons?i=grafana)](https://grafana.com)
 [![Markdown](https://skillicons.dev/icons?i=markdown)](https://daringfireball.net/projects/markdown/)
 
+### 🤖 AI Coding Agents (Harness)
+[![GitHub Copilot CLI](https://img.shields.io/badge/GitHub%20Copilot%20CLI-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/github/copilot-cli)
+[![GitHub Copilot App](https://img.shields.io/badge/GitHub%20Copilot%20App-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/copilot)
+[![Codex CLI](https://img.shields.io/badge/Codex%20CLI-10A37F?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/openai/codex)
+[![Codex Desktop](https://img.shields.io/badge/Codex%20Desktop-10A37F?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/openai/codex)
+[![Antigravity 2.0](https://img.shields.io/badge/Antigravity%202.0-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://deepmind.google)
+[![Antigravity CLI](https://img.shields.io/badge/Antigravity%20CLI-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://deepmind.google)
+[![Pi Coding Agent](https://img.shields.io/badge/Pi%20Coding%20Agent-7C3AED?style=for-the-badge&logo=pi-hole&logoColor=white)](https://pi.ai)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com)
+
 </div>
 
 ---
