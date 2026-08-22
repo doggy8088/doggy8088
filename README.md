@@ -3,10 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════ -->
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=160&section=header&animation=fadeIn&text=Will%20%E4%BF%9D%E5%93%A5">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,6,8,10&height=160&section=header&animation=fadeIn&text=Will%20%E4%BF%9D%E5%93%A5" alt="Will 保哥" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,6,8,10&height=160&section=header&animation=fadeIn&text=Will%20%E4%BF%9D%E5%93%A5" alt="Will 保哥" />
 
 <!-- Animated Typing Effect -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=0969DA&center=true&vCenter=true&width=750&height=50&lines=%F0%9F%9A%80+Full-Stack+Developer+%7C+19x+Microsoft+MVP;%F0%9F%8C%9F+Angular+%2F+Cloud+AI+GDE+%7C+Microsoft+Regional+Director;%F0%9F%92%A1+AI+%7C+.NET+%7C+Azure+%7C+DevOps+Expert)](https://git.io/typing-svg)
