@@ -98,6 +98,9 @@ I am a passionate full-stack developer with deep expertise in enterprise applica
 
 ### Cloud & DevOps
 [![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)
+[![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
+[![Azure DevOps](images/icon-azure-devops.svg)](https://azure.microsoft.com/services/devops/)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
