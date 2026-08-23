@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <rect width="48" height="48" rx="10" fill="#242938"/>
+  <!-- Informix Stylized Mark (i and X) -->
+  <g transform="translate(6, 6) scale(0.033, 0.033)">
+    <!-- Informix Orange Script i & Dot -->
+    <path d="m150 180 c25 0 45-20 45-45 0-25-20-45-45-45 -25 0-45 20-45 45 0 25 20 45 45 45z" fill="#E7642E"/>
+    <path d="m150 260 -60 155 c-3 7-7 18-8 25 -2 10 4 11 12 8 21-9 47-46 58-61 l10 6 c-23 41-66 104-119 104 -23 0-37-17-38-38 -1-19 5-37 11-52 l56-147 c3-7 7-18 8-25 2-10-4-11-12-8 -21 9-47 46-58 61 l-10-6 c23-41 66-104 119-104 24 0 35 10 38 27 3 13 0 30-8 55z" fill="#E7642E"/>
+    <!-- Informix Blue Winged X -->
+    <path d="m200 490 150-25 -123-9 146-23 -123-11 146-21 -123-12 146-20 -123-15 146-17 -145-17 124-15 -145-20 124-12 -145-21 124-11 -145-23 124-9 -149-25 h168 l57 88 57-88 h96 l-106 152 115 154 h-97 l-65-94 -65 94 h-166z" fill="#3D62A9"/>
+  </g>
+  <!-- Informix Subtitle -->
+  <text x="24" y="42" font-family="'Segoe UI',-apple-system,sans-serif" font-size="7.5" font-weight="bold" fill="#ECEFF4" text-anchor="middle" letter-spacing="0.5">INFORMIX</text>
+</svg>

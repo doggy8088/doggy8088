@@ -107,7 +107,10 @@ I am a passionate full-stack developer with deep expertise in enterprise applica
 [![Nginx](https://skillicons.dev/icons?i=nginx)](https://www.nginx.com)
 
 ### Databases & Storage
-[![MSSQL](https://skillicons.dev/icons?i=mssql)](https://www.microsoft.com/en-us/sql-server)
+[![MS SQL Server](https://skillicons.dev/icons?i=mssql)](https://www.microsoft.com/en-us/sql-server)
+[![Oracle](images/icon-oracle.svg)](https://www.oracle.com/database/)
+[![IBM DB2](images/icon-db2.svg)](https://www.ibm.com/products/db2)
+[![IBM Informix](images/icon-informix.svg)](https://www.ibm.com/products/informix)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
