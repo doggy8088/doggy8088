@@ -125,6 +125,7 @@ I am a passionate full-stack developer with deep expertise in enterprise applica
 [![xUnit](images/icon-xunit.svg)](https://xunit.net/)
 [![Vitest](https://skillicons.dev/icons?i=vitest)](https://vitest.dev/)
 [![Jest](https://skillicons.dev/icons?i=jest)](https://jestjs.io)
+[![Playwright](images/icon-playwright.svg)](https://playwright.dev/)
 [![Cypress](https://skillicons.dev/icons?i=cypress)](https://www.cypress.io)
 [![Selenium](https://skillicons.dev/icons?i=selenium)](https://www.selenium.dev)
 
