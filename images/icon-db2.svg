@@ -1,52 +1,35 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
   <rect width="48" height="48" rx="10" fill="#242938"/>
-  <!-- IBM 8-Bar Logo (Scaled) -->
-  <svg x="7" y="6" width="34" height="15" viewBox="0 0 1075 401.15" fill="#0F62FE">
-    <g>
-      <!-- I -->
-      <rect y="373.17" width="194.43" height="27.932"/>
-      <rect y="319.83" width="194.43" height="27.932"/>
-      <rect x="55.468" y="266.54" width="83.399" height="27.932"/>
-      <rect x="55.468" y="213.25" width="83.399" height="27.932"/>
-      <rect x="55.468" y="159.96" width="83.399" height="27.932"/>
-      <rect x="55.468" y="106.58" width="83.399" height="27.932"/>
-      <rect y="53.288" width="194.43" height="27.932"/>
-      <rect width="194.43" height="27.932"/>
-      <!-- B -->
-      <path d="m222.17 400.85 207.11 0.297c27.734 0 52.793-10.697 71.513-27.932h-278.62z"/>
-      <path d="m222.17 347.76h299.03c5.051-8.617 8.815-18.027 11.094-27.932h-310.12z"/>
-      <rect x="277.73" y="266.54" width="83.3" height="27.932"/>
-      <path d="m444.43 266.54v27.932h90.927c0-9.608-1.288-19.017-3.764-27.932z"/>
-      <path d="m497.92 213.25h-220.19v27.932h243.46c-6.34-10.698-14.165-20.107-23.277-27.932z"/>
-      <path d="m277.73 159.96v27.932h220.19c9.311-7.825 17.135-17.235 23.277-27.932z"/>
-      <rect x="277.73" y="106.58" width="83.3" height="27.932"/>
-      <path d="m444.43 134.51h87.163c2.476-8.914 3.764-18.324 3.764-27.932h-90.927z"/>
-      <path d="m521.2 53.288h-299.03v27.932h310.12c-2.575-9.905-6.339-19.314-11.093-27.932z"/>
-      <path d="m429.28 0h-207.11v27.932h278.53c-18.621-17.235-43.878-27.932-71.414-27.932z"/>
-      <!-- M -->
-      <polygon points="555.57 81.22 742.67 81.22 733.06 53.288 555.57 53.288"/>
-      <polygon points="555.57 27.932 724.25 27.932 714.64 0 555.57 0"/>
-      <polygon points="555.57 106.58 555.57 134.51 645.75 134.51 655.36 106.58"/>
-      <polygon points="555.57 159.96 555.57 187.89 628.18 187.89 637.79 159.96"/>
-      <polygon points="555.57 213.25 555.57 241.18 610.6 241.18 620.21 213.25"/>
-      <polygon points="555.57 266.54 555.57 294.47 593.03 294.47 602.64 266.54"/>
-      <rect x="555.57" y="319.83" width="83.4" height="27.932"/>
-      <rect x="555.57" y="373.17" width="83.4" height="27.932"/>
-      <polygon points="768.42 27.932 787.86 81.22 841.97 81.22 861.41 27.932 871.02 0 758.81 0"/>
-      <polygon points="778.03 53.288 788.16 81.22 841.67 81.22 851.8 53.288 851.8 53.288"/>
-      <polygon points="797.64 106.58 807.77 134.51 822.05 134.51 832.19 106.58"/>
-      <polygon points="817.25 159.96 827.39 187.89 827.39 187.89 827.39 159.96"/>
-      <polygon points="886.85 53.288 877.24 81.22 1074.8 81.22 1074.8 53.288"/>
-      <polygon points="905.27 0 895.66 27.932 1074.8 27.932 1074.8 0"/>
-      <polygon points="981.43 106.58 991.04 134.51 1074.8 134.51 1074.8 106.58"/>
-      <polygon points="990.22 159.96 999.83 187.89 1074.8 187.89 1074.8 159.96"/>
-      <polygon points="999.01 213.25 1008.6 241.18 1074.8 241.18 1074.8 213.25"/>
-      <polygon points="1007.8 266.54 1017.4 294.47 1074.8 294.47 1074.8 266.54"/>
-      <rect x="991.43" y="319.83" width="83.399" height="27.932"/>
-      <rect x="991.43" y="373.17" width="83.399" height="27.932"/>
-    </g>
-  </svg>
-  <!-- Db2 Label Badge -->
-  <rect x="9" y="24" width="30" height="17" rx="4" fill="#0F62FE"/>
-  <text x="24" y="36.5" font-family="'Segoe UI',-apple-system,sans-serif" font-size="12" font-weight="900" fill="white" text-anchor="middle" letter-spacing="0.5">Db2</text>
+  <defs>
+    <linearGradient id="ibm_db2_cyl" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#78A9FF"/>
+      <stop offset="35%" stop-color="#0F62FE"/>
+      <stop offset="100%" stop-color="#002D9C"/>
+    </linearGradient>
+    <linearGradient id="ibm_badge_grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0F62FE"/>
+      <stop offset="100%" stop-color="#0043CE"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- IBM Carbon DB2 Database Cylinder (Centered Top) -->
+  <g transform="translate(13, 4) scale(0.6875)">
+    <!-- 3D Database Cylinder Body -->
+    <path d="M16 3 C10.7 3 5 4.25 5 7 V25 C5 27.75 10.7 29 16 29 S27 27.75 27 25 V7 C27 4.25 21.3 3 16 3 Z" fill="url(#ibm_db2_cyl)"/>
+    <!-- Top Cap Ellipse -->
+    <ellipse cx="16" cy="7" rx="10.5" ry="3.5" fill="#A6C8FF"/>
+    <ellipse cx="16" cy="6.6" rx="9.5" ry="3" fill="#D0E2FF"/>
+    <!-- Segment Division 1 -->
+    <path d="M5.5 13 C7.5 14.2 11.5 15 16 15 S24.5 14.2 26.5 13" fill="none" stroke="#242938" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="M5.5 13.8 C7.5 15 11.5 15.8 16 15.8 S24.5 15 26.5 13.8" fill="none" stroke="#A6C8FF" stroke-width="0.8" stroke-linecap="round"/>
+    <!-- Segment Division 2 -->
+    <path d="M5.5 19 C7.5 20.2 11.5 21 16 21 S24.5 20.2 26.5 19" fill="none" stroke="#242938" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="M5.5 19.8 C7.5 21 11.5 21.8 16 21.8 S24.5 21 26.5 19.8" fill="none" stroke="#A6C8FF" stroke-width="0.8" stroke-linecap="round"/>
+    <!-- Bottom Rim Highlight -->
+    <path d="M5.5 25 C7.5 26.2 11.5 27 16 27 S24.5 26.2 26.5 25" fill="none" stroke="#4589FF" stroke-width="0.8" stroke-linecap="round"/>
+  </g>
+
+  <!-- Clean IBM Db2 Product Badge -->
+  <rect x="5" y="27" width="38" height="16" rx="4" fill="url(#ibm_badge_grad)"/>
+  <text x="24" y="38.5" font-family="-apple-system,BlinkMacSystemFont,'IBM Plex Sans','Segoe UI',Helvetica,Arial,sans-serif" font-size="8.5" font-weight="900" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.5">IBM Db2</text>
 </svg>
