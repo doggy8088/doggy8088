@@ -119,8 +119,10 @@ I am a passionate full-stack developer with deep expertise in enterprise applica
 [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
 
 ### Testing
-[![Cypress](https://skillicons.dev/icons?i=cypress)](https://www.cypress.io)
+[![xUnit](images/icon-xunit.svg)](https://xunit.net/)
+[![Vitest](https://skillicons.dev/icons?i=vitest)](https://vitest.dev/)
 [![Jest](https://skillicons.dev/icons?i=jest)](https://jestjs.io)
+[![Cypress](https://skillicons.dev/icons?i=cypress)](https://www.cypress.io)
 [![Selenium](https://skillicons.dev/icons?i=selenium)](https://www.selenium.dev)
 
 ### Tools & Editors
