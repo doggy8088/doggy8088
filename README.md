@@ -134,9 +134,9 @@ I am a passionate full-stack developer with deep expertise in enterprise applica
 [![GitHub Copilot App](images/icon-copilot-app.svg)](https://github.com/features/copilot)
 [![Codex CLI](images/icon-codex-cli.svg)](https://github.com/openai/codex)
 [![Codex Desktop](images/icon-codex-desktop.svg)](https://github.com/openai/codex)
-[![Antigravity 2.0](images/icon-antigravity.svg)](https://deepmind.google)
-[![Antigravity CLI](images/icon-antigravity-cli.svg)](https://deepmind.google)
-[![Pi Coding Agent](images/icon-pi-agent.svg)](https://pi.ai)
+[![Antigravity 2.0](images/icon-antigravity.svg)](https://antigravity.google/)
+[![Antigravity CLI](images/icon-antigravity-cli.svg)](https://antigravity.google/)
+[![Pi Coding Agent](images/icon-pi-agent.svg)](https://pi.dev/)
 [![Claude Code](images/icon-claude-code.svg)](https://www.anthropic.com)
 
 </div>
