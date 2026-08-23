@@ -84,6 +84,7 @@ I am a passionate full-stack developer with deep expertise in enterprise applica
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![C#](https://skillicons.dev/icons?i=cs)](https://www.w3schools.com/cs/)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
+[![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/)
 [![Go](https://skillicons.dev/icons?i=go)](https://golang.org)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
 [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
