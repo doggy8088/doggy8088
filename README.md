@@ -226,62 +226,21 @@ I am a passionate full-stack developer with deep expertise in enterprise applica
 
 <div align="center">
 
-<a href="https://github.com/doggy8088/Learn-Git-in-30-days">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=Learn-Git-in-30-days&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=Learn-Git-in-30-days&theme=default&hide_border=false" alt="Learn-Git-in-30-days" />
-  </picture></a>
-<a href="https://github.com/doggy8088/better-rm">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=better-rm&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=better-rm&theme=default&hide_border=false" alt="better-rm" />
-  </picture></a>
+<a href="https://github.com/doggy8088/Learn-Git-in-30-days"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=Learn-Git-in-30-days&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=Learn-Git-in-30-days&theme=default&hide_border=false" alt="Learn-Git-in-30-days" /></picture></a>
+<a href="https://github.com/doggy8088/better-rm"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=better-rm&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=better-rm&theme=default&hide_border=false" alt="better-rm" /></picture></a>
 
-<a href="https://github.com/doggy8088/TampermonkeyUserscripts">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=TampermonkeyUserscripts&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=TampermonkeyUserscripts&theme=default&hide_border=false" alt="TampermonkeyUserscripts" />
-  </picture></a>
-<a href="https://github.com/doggy8088/ChatGPTToolkitExtension">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=ChatGPTToolkitExtension&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=ChatGPTToolkitExtension&theme=default&hide_border=false" alt="ChatGPTToolkitExtension" />
-  </picture></a>
+<a href="https://github.com/doggy8088/TampermonkeyUserscripts"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=TampermonkeyUserscripts&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=TampermonkeyUserscripts&theme=default&hide_border=false" alt="TampermonkeyUserscripts" /></picture></a>
+<a href="https://github.com/doggy8088/ChatGPTToolkitExtension"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=ChatGPTToolkitExtension&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=ChatGPTToolkitExtension&theme=default&hide_border=false" alt="ChatGPTToolkitExtension" /></picture></a>
 
-<a href="https://github.com/doggy8088/mcp-cli">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=mcp-cli&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=mcp-cli&theme=default&hide_border=false" alt="mcp-cli" />
-  </picture></a>
-<a href="https://github.com/doggy8088/best-wsl-ubuntu-setup">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=best-wsl-ubuntu-setup&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=best-wsl-ubuntu-setup&theme=default&hide_border=false" alt="best-wsl-ubuntu-setup" />
-  </picture></a>
+<a href="https://github.com/doggy8088/mcp-cli"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=mcp-cli&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=mcp-cli&theme=default&hide_border=false" alt="mcp-cli" /></picture></a>
+<a href="https://github.com/doggy8088/best-wsl-ubuntu-setup"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=best-wsl-ubuntu-setup&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=best-wsl-ubuntu-setup&theme=default&hide_border=false" alt="best-wsl-ubuntu-setup" /></picture></a>
 
-<a href="https://github.com/doggy8088/git-setup">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=git-setup&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=git-setup&theme=default&hide_border=false" alt="git-setup" />
-  </picture></a>
-<a href="https://github.com/doggy8088/OpenCC">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=OpenCC&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=OpenCC&theme=default&hide_border=false" alt="OpenCC" />
-  </picture></a>
+<a href="https://github.com/doggy8088/git-setup"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=git-setup&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=git-setup&theme=default&hide_border=false" alt="git-setup" /></picture></a>
+<a href="https://github.com/doggy8088/OpenCC"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=OpenCC&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=OpenCC&theme=default&hide_border=false" alt="OpenCC" /></picture></a>
 
-<a href="https://github.com/doggy8088/codex-reset-checker">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=codex-reset-checker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=codex-reset-checker&theme=default&hide_border=false" alt="codex-reset-checker" />
-  </picture>
+<a href="https://github.com/doggy8088/codex-reset-checker"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=codex-reset-checker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=codex-reset-checker&theme=default&hide_border=false" alt="codex-reset-checker" /></picture>
 </a>
-<a href="https://github.com/doggy8088/Paste-to-Markdown">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=Paste-to-Markdown&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=Paste-to-Markdown&theme=default&hide_border=false" alt="Paste-to-Markdown" />
-  </picture>
-</a>
+<a href="https://github.com/doggy8088/Paste-to-Markdown"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=Paste-to-Markdown&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=doggy8088&repo=Paste-to-Markdown&theme=default&hide_border=false" alt="Paste-to-Markdown" /></picture></a>
 
 </div>
 
