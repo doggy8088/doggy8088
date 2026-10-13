@@ -265,10 +265,10 @@ I am a passionate full-stack developer with deep expertise in enterprise applica
 
 | 🏆 Award | 📅 Period | 🔗 Details |
 |---|---|---|
-| 🌟 **Microsoft MVP** | 2006 – Present (19×) | Visual Studio & Development Tools, Azure, Developer Technologies |
+| 🌟 **Microsoft MVP** | 2007 – Present (19×) | Visual Studio & Development Tools, Azure, Developer Technologies |
 | 🅰️ **Angular / Cloud AI GDE** | 2018 – Present | Google Developer Expert for Angular & Cloud AI |
-| 📖 **iT邦幫忙 鐵人賽 Champion** | 2013 | *Learn Git in 30 Days* — Best Book Award |
 | 📡 **Microsoft RD** | 2019 – Present | Regional Director — Technical Community Leader |
+| 📖 **iT邦幫忙 鐵人賽 Champion** | 2013 | *Learn Git in 30 Days* — Best Book Award |
 | 🏗️ **GitHub Achievements** | Active | Pair Extraordinaire ×3 · Starstruck ×4 · Pull Shark ×3 |
 | 🎓 **Developer Program Member** | Active | GitHub Developer Program |
 
