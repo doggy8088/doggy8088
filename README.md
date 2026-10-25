@@ -11,7 +11,8 @@
 <!-- Profile View Counter & Followers -->
 <p>
   <a href="https://github.com/doggy8088">
-    <img src="https://komarev.com/ghpvc/?username=doggy8088&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+    <!-- v= 參數用來繞過 GitHub Camo 的舊快取，讓破圖能重新抓取 -->
+    <img src="https://komarev.com/ghpvc/?username=doggy8088&label=Profile%20Views&color=0e75b6&style=for-the-badge&v=20261025" alt="Profile Views" />
   </a>
   <a href="https://github.com/doggy8088?tab=followers">
     <img src="https://img.shields.io/github/followers/doggy8088?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub Followers" />
